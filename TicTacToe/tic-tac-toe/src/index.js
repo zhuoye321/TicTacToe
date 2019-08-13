@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+
+//test
 function Square(props) {
   return (
     <button className="square" onClick={props.onClick}>
